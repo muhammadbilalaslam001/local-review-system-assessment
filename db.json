@@ -1,0 +1,74 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "The Great Burger",
+      "description": "Best burgers in town",
+      "averageRating": 5,
+      "reviews": []
+    },
+    {
+      "id": "2",
+      "name": "Pasta Palace",
+      "description": "Delicious pasta and Italian cuisine",
+      "averageRating": 4.2,
+      "reviews": []
+    },
+    {
+      "id": "3",
+      "name": "Sushi World",
+      "description": "Authentic Japanese sushi experience",
+      "averageRating": 4,
+      "reviews": []
+    },
+    {
+      "id": "4",
+      "name": "Pizza Corner",
+      "description": "Best pizza in town with fresh toppings",
+      "averageRating": 4.8,
+      "reviews": []
+    },
+    {
+      "id": "5",
+      "name": "Taco Town",
+      "description": "Mexican flavors that you'll love",
+      "averageRating": 4.1,
+      "reviews": []
+    },
+    {
+      "id": "6",
+      "name": "Steakhouse Grill",
+      "description": "Perfect steaks cooked to order",
+      "averageRating": 2,
+      "reviews": []
+    },
+    {
+      "id": "7",
+      "name": "Vegetarian Delights",
+      "description": "Healthy and tasty vegetarian meals",
+      "averageRating": 4.4,
+      "reviews": []
+    },
+    {
+      "id": "8",
+      "name": "The Seafood Shack",
+      "description": "Fresh seafood daily",
+      "averageRating": 4.3,
+      "reviews": []
+    },
+    {
+      "id": "9",
+      "name": "Curry House",
+      "description": "Spicy and flavorful Indian cuisine",
+      "averageRating": 4.7,
+      "reviews": []
+    },
+    {
+      "id": "10",
+      "name": "BBQ Barn",
+      "description": "Slow-cooked BBQ and smoked meats",
+      "averageRating": 3.5,
+      "reviews": []
+    }
+  ]
+}
